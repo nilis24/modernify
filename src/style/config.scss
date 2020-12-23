@@ -1,0 +1,64 @@
+
+body {
+    margin: 0;
+}
+
+// Importing fonts families from google fonts
+
+// montserrat light 300
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+// montserrat bold 700
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+// playfair display medium 500
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+// varela round regular
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+// Poppins
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+// Variables 
+
+// Font families: primary, secondary and accent
+
+$fontFamilyPrimary: 'Poppins', sans-serif; // Headings
+
+$fontFamilySecondary: 'Playfair Display', serif;// subtitles
+
+$fontFamilyAccent: 'Montserrat', sans-serif; // buttons and paragraphs
+
+
+
+// Headline, subtitle and paragraph sizes (1.618 is the golden ratio)
+
+$sizeHeadline_1: 40px;
+$sizeHeadline_2: $sizeHeadline_1 / 1.618;
+$sizeHeadline_3: $sizeHeadline_2 / 1.618;
+$sizeHeadline_4: $sizeHeadline_3 / 1.618;
+$sizeHeadline_5: $sizeHeadline_4 / 1.618;
+$sizeHeadline_6: $sizeHeadline_5 / 1.618;
+
+$sizeSubtitle: 25px;
+$sizeParagraph: 18px;
+
+
+
+// Colors: primary, secondary and accent
+
+$colorPrimary: #1C1940; // 60%
+
+$colorSecondary: #1C1940; // 30%
+
+$colorAccent: #1C1940; // 10%
+
+
+// Button style configuration
+
+$btnBackgroundColor: $colorAccent;
+$btnFontColor: black;
+$btnFontFamily: $fontFamilyAccent;
+$btnBorderRadius: 5px;
