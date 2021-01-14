@@ -8,9 +8,7 @@ class Sidebar extends React.Component {
         return (
             <nav className="sidebar">
                 <ul className="sidebar-nav">
-                    <li>
-                        <img className="logo" src={logo} alt="logo" />
-                    </li>
+                    <img className="logo" src={logo} alt="logo" />
                     <hr className="sidebar-divider"></hr>
                     <li className="sidebar-item">
                         <FaTachometerAlt />
@@ -18,7 +16,7 @@ class Sidebar extends React.Component {
                         <a className="sidebar-link active" href="#">Dashboard</a>
                     </li>
                     <hr className="sidebar-divider"></hr>
-                    <li className="sidebar-heading">General settings</li>
+                    <p className="sidebar-heading">General settings</p>
                     <li className="sidebar-item">
                         <FaTerminal />
                         &nbsp;&nbsp;
@@ -40,7 +38,7 @@ class Sidebar extends React.Component {
                         <a className="sidebar-link" href="#">Suggestions</a>
                     </li>
                     <hr className="sidebar-divider"></hr>
-                    <li className="sidebar-heading">Moderation</li>
+                    <p className="sidebar-heading">Moderation</p>
                     <li className="sidebar-item">
                         <FaCog />
                         &nbsp;&nbsp;
@@ -57,7 +55,7 @@ class Sidebar extends React.Component {
                         <a className="sidebar-link" href="#">Moderation logs</a>
                     </li>
                     <hr className="sidebar-divider"></hr>
-                    <li className="sidebar-heading">Welcomes</li>
+                    <p className="sidebar-heading">Welcomes</p>
                     <li className="sidebar-item">
                         <FaCog />
                         &nbsp;&nbsp;
@@ -69,7 +67,7 @@ class Sidebar extends React.Component {
                         <a className="sidebar-link" href="#">Welcome logs</a>
                     </li>
                     <hr className="sidebar-divider"></hr>
-                    <li className="sidebar-heading">Music</li>
+                    <p className="sidebar-heading">Music</p>
                     <li className="sidebar-item">
                         <FaCog />
                         &nbsp;&nbsp;
