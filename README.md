@@ -1,25 +1,33 @@
 ![wallpaper](image.png)
 
-# Documentation of Custom Components for React
+# The modernizr project
 
-In this repo there are components to use in react made by me. To use the components correctly, some requirements must be followed
+## What is about?
 
-# Requirements and rules
+The idea of this project is develop a modern kit of components for react and publish it to npm as a package.
 
-## Files and directories required
+The components has a good ux, and its responsive, in such a way that it looks good on any device and that the user likes to browse the web where the components are used.
 
-* All of the components they are in the components branch organized by directories. In every directory there are the following files: the `*.js` file of the react component, the `*.scss` file for the component style, the `*.html` file for preview the component and a `README.md` for the specifications and requirements for it to work properly.
+Also, it has a good style `sass` system. It takes care of the branding and design system for the web where the components are used.
 
-* If you use `create-react-app`, you need to create in the src directory two directories: one for the style (for example: named like: ***"style"***) and the second one for the images (for example named like: ***"img"***).
+## What is the use of this project?
 
-## Style
+You can take use of the components, installing the package and use it in your web project.
 
-There are a two files that are required for the style of the components: `config.scss` and `style.scss` and every component has their own file for the style. In the `config.scss` there are the variables for the design system of your app. Every component use this variables in the style.
+## Who and how you can take use of it?
 
-### Usage
+As I said before, is an npm package so you can use it installing in your project.
 
-1. Copy the `config.scss` and the `style.scss` files in the style directory.
+### LICENSE
 
-1. For every component that you use in the project, copy the style file in the ***style*** directory and in the `style.scss` import the style file of the component. And this for every component you use.
+This project is licensed under the [ISC license](LICENSE), so you can use it taking into account the permissions of the license.
 
-1. Finally, compile the `style.scss` to `css`.
+## How you can contribute
+
+If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow it.
+
+## Who maintains and contributes to this project?
+
+Everyone can maintain and contribute to this project.
+
+And in the event that you find a bug, vulnerability or something to improve, please contact the owners
