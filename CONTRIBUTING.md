@@ -12,15 +12,27 @@ All of the components of this package must follow the following rules:
 
 ### HOW YOU CAN CONTRIBUTE IN THE COMPONENTS WIREFRAME DESIGN
 
-design your prupose in [figma](https://figma.com) and open a pull request with the `*.fig` file of your design.
+1. Open a new file in your figma account and work in your design prupose
+1. Download a local copy (the file with the `.fig` termination)
+1. Fork this repository in your account
+1. Clone the fork, move to the `ui-design` branch and move there your local copy of the design
+1. Commit your changes in the fork
+1. Open a pull request from the fork, comparing the changes of this repository
 
-In the <a href="https://www.figma.com/@modernizr">figma community of the project</a> you can watch how our wireframe kit improves.
+---
+**IMPORTANT NOTE:**
 
+If your pull request is accepted, the owner will create an issue for the component pruposed
 
+<a href="">Click here</a> to watch how our wireframe kit improves.
+---
 
 ## CONTRIBUTE IN THE CODE
 
-choose a component from the <a href="https://www.figma.com/@modernizr">figma community of the project</a> that has not been done yet, and make a pull request to prupose your improvements.
+1. Choose an open issue which is not assigned to anyone, and comment asking if the owner can assign it to you.
+1. If the owner assigns you the issue, fork the projeck, clone it and start working on your changes.
+1. Commit the changes in your fork
+1. Open a pull request from the fork, comparing the changes of this repository
 
 ## SASS DESIGN SYSTEM
 
