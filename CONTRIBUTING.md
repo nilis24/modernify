@@ -26,7 +26,7 @@ All of the components of this package must follow the following rules:
 ---
 **IMPORTANT NOTE:**
 
-If your pull request is accepted, the owner will create an issue for the component pruposed
+If your pull request is accepted, the owner will create an issue to develop with code the component pruposed
 
 <a href="">Click here</a> to watch how our wireframe kit improves.
 
