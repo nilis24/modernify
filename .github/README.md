@@ -30,4 +30,4 @@ If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow it
 
 Everyone can maintain and contribute to this project.
 
-And in the event that you find a bug, vulnerability or something to improve, please contact the owners
+And in the event that you find a bug, vulnerability or something to improve, please open an issue using the bug / feature request template and explain the problem or the idea there
