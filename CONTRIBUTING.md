@@ -8,7 +8,7 @@ Only you can do a pull request that is related with any open issue.
 
 1. Open a new file in your figma account and work in your design prupose
 1. Download a local copy (the file with the `.fig` termination)
-1. Fork this repository in your account
+1. Fork this repository in your GitHub account
 1. Clone the fork, move to the `ui-design` branch and move there your local copy of the design
 1. Commit your changes in the fork
 1. Open a pull request from the fork, comparing the changes of this repository
