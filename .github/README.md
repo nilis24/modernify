@@ -24,7 +24,7 @@ This project is licensed under the [ISC license](https://github.com/nilis24/cust
 
 ## How you can contribute
 
-If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow it.
+If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow the rules explained in the file.
 
 ## Who maintains and contributes to this project?
 
