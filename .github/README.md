@@ -4,7 +4,7 @@
 
 ## What is about?
 
-The idea of this project is develop a modern kit of components for react and publish it to npm as a package.
+The idea of this project is develop a modern kit of components for react and publish it as a npm package.
 
 The components has a good ux, and its responsive, in such a way that it looks good on any device and that the user likes to browse the web where the components are used.
 
