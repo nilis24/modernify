@@ -25,6 +25,7 @@ All of the components of this package must follow the following rules:
 If your pull request is accepted, the owner will create an issue for the component pruposed
 
 <a href="">Click here</a> to watch how our wireframe kit improves.
+
 ---
 
 ## CONTRIBUTE IN THE CODE
