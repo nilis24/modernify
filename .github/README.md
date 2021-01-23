@@ -20,7 +20,7 @@ As I said before, is an npm package so you can use it installing in your project
 
 ### LICENSE
 
-This project is licensed under the [ISC license](LICENSE), so you can use it taking into account the permissions of the license.
+This project is licensed under the [ISC license](https://github.com/nilis24/custom-components/blob/master/LICENSE), so you can use it taking into account the permissions of the license.
 
 ## How you can contribute
 
