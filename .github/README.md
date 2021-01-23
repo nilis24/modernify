@@ -14,13 +14,9 @@ Also, it has a good style `sass` system. It takes care of the branding and desig
 
 You can take use of the components, installing the package and use it in your web project.
 
-## Who and how you can take use of it?
+## About the license
 
-As I said before, is an npm package so you can use it installing in your project.
-
-### LICENSE
-
-This project is licensed under the [ISC license](https://github.com/nilis24/custom-components/blob/master/LICENSE), so you can use it taking into account the permissions of the license.
+This project is licensed under the [ISC license](https://github.com/nilis24/custom-components/blob/master/LICENSE), so everyone can use it taking into account the permissions of the license.
 
 ## How you can contribute
 
@@ -29,5 +25,3 @@ If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow th
 ## Who maintains and contributes to this project?
 
 Everyone can maintain and contribute to this project.
-
-And in the event that you find a bug, vulnerability or something to improve, please open an issue using the bug / feature request template and explain the problem or the idea there
