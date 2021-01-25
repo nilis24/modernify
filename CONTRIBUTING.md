@@ -39,10 +39,6 @@ If your pull request is accepted, the owner will create an issue to develop with
 1. Commit the changes in your fork
 1. Open a pull request from the fork, comparing the changes of this repository
 
-### SASS DESIGN SYSTEM
-
-In your code or wireframe design, you must follow and use the variables of [config.scss]().
-
 ## HOW YOU CAN CONTRIBUTE YOUR IDEAS TO THE PROJECT
 
 To do that, open an issue using the **feature request** template and explain your idea there.
