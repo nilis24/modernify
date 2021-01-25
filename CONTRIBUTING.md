@@ -28,7 +28,7 @@ All of the components of this package must follow the following rules:
 
 If your pull request is accepted, the owner will create an issue to develop with code the component pruposed
 
-<a href="">Click here</a> to watch how our wireframe kit improves.
+<a href="https://www.figma.com/file/5EFFcP5khDgy7yWSG0zWfE/Untitled?node-id=0%3A1">Click here</a> to watch how our wireframe kit improves.
 
 ---
 
