@@ -31,7 +31,7 @@ Everyone can maintain and contribute to this project.
 ## Install
 
 ```bash
-npm install --save modernizr
+npm install --save modernify
 ```
 
 ## Usage
@@ -39,8 +39,8 @@ npm install --save modernizr
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'modernizr'
-import 'modernizr/dist/index.css'
+import MyComponent from 'modernify'
+import 'modernify/dist/index.css'
 
 class Example extends Component {
   render() {
