@@ -1,4 +1,4 @@
-![wallpaper](image.png)
+![wallpaper](wallpaper.png)
 
 # The modernify project
 
