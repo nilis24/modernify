@@ -26,7 +26,7 @@ If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow th
 
 ## Who maintains and contributes to this project?
 
-Everyone can maintain and contribute to this project.
+Everyone contribute to this project, also everyone can find bugs and report it. But only the owner can maintain the project.
 
 ## Install
 
