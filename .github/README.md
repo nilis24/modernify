@@ -20,9 +20,9 @@ This project is licensed under the [ISC license](https://github.com/nilis24/cust
 
 ISC © [nilis24](https://github.com/nilis24)
 
-## How you can contribute
+## How you can contribute and how you can begin to contribute
 
-If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow the rules explained in the file. **You can join to our discord server: [click here](https://discord.gg/WGYWjhdwNV)**
+If you want to contribute, read [CONTRIBUTING.md](CONTRIBUTING.md) and follow the rules explained in the file. **You can join to our discord server: [click here](https://discord.gg/WGYWjhdwNV)**. Start reading the [CONTRIBUTING.md](CONTRIBUTING.md) to begin.
 
 ## Who maintains and contributes to this project?
 
