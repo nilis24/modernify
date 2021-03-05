@@ -10,9 +10,9 @@ The idea of this project is develop a modern kit of components for react and pub
 
 The components should has a good ux, and should be responsive, in such a way that it looks good on any device and that the user likes to browse the web where the components are used.
 
-## What is the use of this project?
+## What is the use of this project and why is it useful?
 
-You can take use of the components, installing the package and use it in your web project.
+You can take use of the components, installing the package and use it in your web project. It's useful because you can put modern style in your project without having knowledge of CSS.  
 
 ## About the license
 
